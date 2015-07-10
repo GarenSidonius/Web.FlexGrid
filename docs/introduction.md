@@ -14,7 +14,7 @@ Flex Grid allows you to quickly and easily turns this:
 
 Into this:
 
-![FlexGrid view of CSV file](images/flexgrid_csv.png)
+![FlexGrid view of CSV file](images/Flexgrid_csv.png)
  
 
 ##What Flex Grid doesn’t do
