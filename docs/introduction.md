@@ -10,11 +10,11 @@ Flex Grid is the result of years of frustration working with csv files trying to
 
 ##What Flex Grid does
 Flex Grid allows you to quickly and easily turns this:
-![Text view of CSV file](/Images/Raw_csv.png)
+![Text view of CSV file](images/Raw_csv.png)
 
 Into this:
 
-![FlexGrid view of CSV file](/Images/flexgrid_csv.png)
+![FlexGrid view of CSV file](images/flexgrid_csv.png)
  
 
 ##What Flex Grid doesn’t do
@@ -52,29 +52,29 @@ Flex Grid isn’t intended to be a fully featured utility for manipulating or ch
 ##3.2	Installation
 This program requires a license in order to operate. Your solution provider should have sent you an email containing your license key. This key will be needed during the installation process.
 
-- Double click on the executable  ![FlexGrid.exe](/Images/FlexGrid_Icon.png)
+- Double click on the executable  ![FlexGrid.exe](images/FlexGrid_Icon.png)
 - After a few moments the following box will appear.
 
 
-![](/Images/installOK.png)
+![](images/installOK.png)
 
 - Click on the play symbol to continue
 - After a few moment the following license prompt will appear
 
-![](/Images/License.png)
+![](images/License.png)
 
 - Copy the license text from the email provided by your supplier
 - Click on the Paste box
  
-![](/Images/Paste.png)
+![](images/Paste.png)
 
 - If you enter a valid licence the following message box will appear
 
-![](/Images/LicenseDetails.png)
+![](images/LicenseDetails.png)
 
 - Click ok to continue to the Flex Grid application
 
-![](/Images/Flexgrid_Blank.png)
+![](images/Flexgrid_Blank.png)
 
 Flex Grid is installed in:
 
@@ -91,12 +91,12 @@ The Flex Grid workspace contains three main areas:
 2. Navigation
 3. Data Area
 
-![](/Images/Flexgrid_Areas.png)
+![](images/Flexgrid_Areas.png)
 
 ##4.1	Toolbar and Menus
 ###4.1.1	Toolbar File Menu
 
-![](/Images/Toolbar_FileMenu.png) 
+![](images/Toolbar_FileMenu.png) 
 ####4.1.1.1	Open
 Opens the selected csv file in Flex Grid, can select from list of Recent documents or browse the computer.
 
@@ -106,7 +106,7 @@ Saves the current CSV file, without the need to enter the filename or path.
 ####4.1.1.3	Save As
 Saves the current CSV file, once the desired location and filename details have been completed in the file browser window.
 
-![](/Images/SaveAs.png)
+![](images/SaveAs.png)
 ####4.1.1.4	Support
 Displays product information and support options, these include:
 1.	License Details
@@ -121,12 +121,12 @@ Displays product information and support options, these include:
 #####4.1.1.4.1	Product Information
 The details of the current license holder, license type and maintenance expiry date are displayed in this tab, and can be used for reference if required by support personnel.
 
-![](/Images/ProductInfo.png) 
+![](images/ProductInfo.png) 
 #####4.1.1.4.2	Support Options
 There are many support options available within Flex Grid, these include:
 
 ######4.1.1.4.2.1	Support Package
-![](/Images/SupportPackage.png) 
+![](images/SupportPackage.png) 
 
 Creates a Support Package Files (spkg) in the selected folder. This support package contains:
 
@@ -136,66 +136,66 @@ Creates a Support Package Files (spkg) in the selected folder. This support pack
 
 On selection a reminder that the package may contain sensitive information is displayed, select the ‘I understand, create the support package’ option.
 
-![](/Images/SupportPackage_Agree.png) 
+![](images/SupportPackage_Agree.png) 
  
 Once the package has been create, use the Open Directory option to locate the file to forward onto your support personnel.
 
-![](/Images/SupportPackage_Open.png) 
+![](images/SupportPackage_Open.png) 
  
 ######4.1.1.4.2.2	Fix It
-![](/Images/FixIt.png) 
+![](images/FixIt.png) 
 
 Is a small application which will attempt to resolve any issues, such as corrupt workspaces or settings files.
 
 ######4.1.1.4.2.3	Feedback
-![](/Images/Feedback.png)
+![](images/Feedback.png)
  
 Opens the Simply Effective feedback portal. Here you can add feedback or browse exiting knowledge base entries.
 
-![](/Images/Feedback_Portal.png)
+![](images/Feedback_Portal.png)
  
 ######4.1.1.4.2.4	About
-![](/Images/AboutIcon.png)
+![](images/AboutIcon.png)
  
 Displays the Flex Grid about box, which details the current Flex Grid version, and provides easy access to view the log file.
 
-![](/Images/About.png) 
+![](images/About.png) 
 ######4.1.1.4.2.5	System Info
 
-![](/Images/SystemInfo.png)
+![](images/SystemInfo.png)
  
 Displays the current system specifications, that can be easily copied if need to forward onto support personnel.
 
-![](/Images/SystemInfo_Dialog.png)
+![](images/SystemInfo_Dialog.png)
  
 ######4.1.1.4.2.6	Updates
-![](/Images/Updates.png)
+![](images/Updates.png)
  
 On selection will check for pending upgrades for the Update Channel stream the current system is on. 
 
 ######4.1.1.4.2.7	Log Info
-![](/Images/LogInfo.png)
+![](images/LogInfo.png)
  
 Opens a Log Information window that provides a way to review the logs. The type of log entries can be filtered by selecting the level desired.
 
-![](/Images/LogInfo_Window.png) 
+![](images/LogInfo_Window.png) 
 
 ###4.1.2	Toolbar Tools
-![](/Images/ToolbarTools.png) 
+![](images/ToolbarTools.png) 
  
 ####4.1.2.1	Project
-![](/Images/Refresh.png) 
+![](images/Refresh.png) 
  
 The refresh option, will reload the current file. This would only be required if the Enable automatic refresh on project file change’ option was not enabled in the Settings
 
 ####4.1.2.2	File
-![](/Images/File.png) 
+![](images/File.png) 
 
 - Save – Saves the current project file, overwriting the existing file. This option will become available once there has been a change to the current project file.
 
 - Save as – Saves the current project file, prompting for the desired location and filename.
 
-![](/Images/SaveAs.png) 
+![](images/SaveAs.png) 
  
 - Save all – Saves all currently opened project files, overwriting the original files.
 
@@ -203,7 +203,7 @@ The refresh option, will reload the current file. This would only be required if
 
 
 ####4.1.2.3	Edit
-![](/Images/Edit.png) 
+![](images/Edit.png) 
 
 - Undo – On selection will undo the last step. There is no limit to the number of times the undo option is selected. This option will only become available when there has been a change to the file.
 
@@ -211,55 +211,55 @@ The refresh option, will reload the current file. This would only be required if
 
 ####4.1.2.4	Workspaces
 #####4.1.2.4.1	Creating Workspaces
-By selecting the top section of the 1st icon ![](/Images/DefaultWorkspace.png)  within the Workspace toolbar, the Create Workspace dialog prompts for the name to assign to the new workspace.
+By selecting the top section of the 1st icon ![](images/DefaultWorkspace.png)  within the Workspace toolbar, the Create Workspace dialog prompts for the name to assign to the new workspace.
 
-![](/Images/CreateNewWorkspace.png) 
+![](images/CreateNewWorkspace.png) 
 
-Enter the desired name, click OK. Customise the data grid as required including the ordering, sorting and visibility of columns and apply any filters. Once complete select the ![](/Images/SaveWorkspace.png) icon.
+Enter the desired name, click OK. Customise the data grid as required including the ordering, sorting and visibility of columns and apply any filters. Once complete select the ![](images/SaveWorkspace.png) icon.
 
 #####4.1.2.4.2	Moving between/Renaming/Deleting Workspaces
 Moving between workspaces, is done by selecting the bottom half of the 1st icon within the Workspace toolbar. This will display all the available workspaces in a list.
 
-![](/Images/Workspace_List.png)
+![](images/Workspace_List.png)
 
 From this list you have the ability to:
 
 1.	Select a workspace - Click on the name of the workspace to move to
-2.	Rename a workspace - Select the ![](/Images/Rename.png)   Rename option that corresponds to the workspace to rename.
-3.	Delete a workspace - Select the ![](/Images/Delete.png)  Delete option that corresponds to the workspace to delete.
+2.	Rename a workspace - Select the ![](images/Rename.png)   Rename option that corresponds to the workspace to rename.
+3.	Delete a workspace - Select the ![](images/Delete.png)  Delete option that corresponds to the workspace to delete.
 
 
 ###4.1.2.5	Settings
-![](/Images/Settings.png) 
+![](images/Settings.png) 
 
 #####4.1.2.5.1	Settings Options
-Customising the behaviour and application options are managed through the settings dialog, made available through the ![](/Images/SettingsIcon.png ) icon. And include:
+Customising the behaviour and application options are managed through the settings dialog, made available through the ![](images/SettingsIcon.png ) icon. And include:
 
 1. 	Application Settings
 2. 	Automatic Updates
 3. 	User Data Options
 
 ######4.1.2.5.1.1	Application Settings
-![](/Images/ApplicationSettings.png)
+![](images/ApplicationSettings.png)
  
 - Remember last project Opens the previously viewed file on opening Flex Grid
 
 - Show row id Toggle to display the row number when viewing files. this is a handy feature when using sort or filter options
-![](/Images/ShowHideToggle.png)
+![](images/ShowHideToggle.png)
 
-- External editor path Sets the path to the desired application to use when the Open in editor option is selected. By default the application is set to WordPad, to change the default program select the ![](/Images/rename.png) option and browse to the path required.
+- External editor path Sets the path to the desired application to use when the Open in editor option is selected. By default the application is set to WordPad, to change the default program select the ![](images/rename.png) option and browse to the path required.
 
 - Enable quick filters Filters results by text entered
 
 **Without quick filters enabled**
-![](/Images/WithoutQuickFilters.png) 
+![](images/WithoutQuickFilters.png) 
 
 **With Quick Filters Enabled**
-![](/Images/WithQuickFilters.png)
+![](images/WithQuickFilters.png)
  
 
 **Example of Quick Filter Result**
-![](/Images/QuickFilterResult.png)
+![](images/QuickFilterResult.png)
  
 
 - Enable anonymous analytics to improve this application - By having this option selected, anonymous data is collected around which features are in use to provide feedback so the application can be improved.
@@ -270,10 +270,10 @@ Customising the behaviour and application options are managed through the settin
 
 Modified File Prompt
 
-![](/Images/FileModified.png)
+![](images/FileModified.png)
  
 ######4.1.2.5.1.2	Automatic Updates
-![](/Images/AutomaticUpdates.png)
+![](images/AutomaticUpdates.png)
 
 - Automatically install new updates - Updates are released periodically to the Flex Grid application. This occurs automatically provided the automatically install new updates option is selected in the settings window.
 
@@ -286,7 +286,7 @@ Modified File Prompt
 	  c)	Alpha - These are releases that have had recent fixes or enhancements and are currently in the internal testing process.
 
 ######4.1.2.5.1.3	User data options
-![](/Images/UserDataOptions.png)
+![](images/UserDataOptions.png)
  
 - Open data directory - Opens the directory that stores the log files, filter and workspace settings files.
 
@@ -296,23 +296,23 @@ Modified File Prompt
 
 #####4.1.2.5.2	Shortcuts
 ######4.1.2.5.2.1	Quick Reference
-Accessed by selecting the bottom half of the ![](/Images/ShortcutsIcon.png)  icon, this option provides visibility of the shortcuts available within Flex Grid. These shortcuts can be modified by selecting the top half of the Shortcuts icon, as outlined below.
-![](/Images/Shortcuts.png)
+Accessed by selecting the bottom half of the ![](images/ShortcutsIcon.png)  icon, this option provides visibility of the shortcuts available within Flex Grid. These shortcuts can be modified by selecting the top half of the Shortcuts icon, as outlined below.
+![](images/Shortcuts.png)
  
 ######4.1.2.5.2.2	Shortcut Search & Setup
-Searching or modifying the shortcut options, is opened by selecting the top half of the ![](/Images/ShortcutsIcon2.png)    icon. To search or modify a shortcut, select from list or type option which has predictive text from list options.
-![](/Images/ShortcutsDialog.png)
+Searching or modifying the shortcut options, is opened by selecting the top half of the ![](images/ShortcutsIcon2.png)    icon. To search or modify a shortcut, select from list or type option which has predictive text from list options.
+![](images/ShortcutsDialog.png)
 
 ######4.1.2.5.2.2.1	Changing a Shortcut
 Select the required shortcut to change, then enter the desired alphabetical key to assign the option. To use an alphabetical key in conjunction with the Shift or Control key, simply hold the Shift or Control key down when selecting the alphabetical character to assign. Once the correct shortcut has been entered, select the assign option, then close the window
-![](/Images/ShortcutsDialog2.png)
+![](images/ShortcutsDialog2.png)
 
 #####4.1.2.5.3	Enable Tooltips
-![](/Images/EnableTooltips.png)
+![](images/EnableTooltips.png)
 
 This option toggles the view of tooltips on hovering over a cell.
  
-![](/Images/TooltipsHover.png)
+![](images/TooltipsHover.png)
 
  
 ######4.1.2.5.3.1	Customising tool tips
@@ -323,67 +323,67 @@ Elements of the tool tips are configurable through the Data Grid Settings window
  preference. For example, the time component of a field is not relevant, therefore the format of the field could be set to display the date only.
 
 **Due date with no formatting applied**
-![](/Images/TooltipsFormat1.png)
+![](images/TooltipsFormat1.png)
  
 **Setting the date format to the due date field in the Data Grid Settings window**
-![](/Images/TooltipsFormat2.png) 
+![](images/TooltipsFormat2.png) 
 
 **Result of applying the formatting to the due date**
-![](/Images/TooltipsFormat3.png) 
+![](images/TooltipsFormat3.png) 
 
 - Alignment – The alignment of fields in the grid and tooltips can be modified to make reading easier.
 
 #####4.1.2.5.4	Language Settings
-![](/Images/LanguageSettings.png)
+![](images/LanguageSettings.png)
  
 This option, displays the language set for the currently selected file. This can be changed to reflect the preferred settings.
 The culture is originally set on the initial opening of the file.
 
 #####4.1.2.5.5	Has Headers
-![](/Images/HasHeaders.png)
+![](images/HasHeaders.png)
  
 This option should reflect the current project file, if the file contains a header row this option should be selected to have the header row displayed as the field headers within the data grid.
 
 **File with header row**
 
-![](/Images/HasHeadersTrue.png)
+![](images/HasHeadersTrue.png)
 
 **File without header row**
 
-![](/Images/HasHEadersFalse.png)
+![](images/HasHEadersFalse.png)
 
 ##4.2	Navigation
 ###4.2.1	The Navigation Menu
-![](/Images/NavigationTree.png) 
+![](images/NavigationTree.png) 
 
 There are three main components that make up the navigation menu, these includ
 
 
 - The folder maintenance area– Options within this area consist of add, remove and browse folder selections
 
-![](/Images/NavigationIcons.png)
+![](images/NavigationIcons.png)
 
 - Folder tree – The csv content of folders that have been added can be browsed and selected through the folder tree area.
-![](/Images/NavigationTree2.png)
+![](images/NavigationTree2.png)
 
 - Show/Hide option – Toggles the display of the navigation area.
 
- ![](/Images/NavigationViewToggle.png)
+ ![](images/NavigationViewToggle.png)
  
 ###4.2.2	Adding/Removing/Browsing folders
 ####4.2.2.1	Adding a Folder
-![](/Images/NavigationAddFolder.png)
+![](images/NavigationAddFolder.png)
 
 To add a folder to the folder tree, select the Add Folder option from the Folder Maintenance Area. A file browser window will be displayed to select the required folder. Once the folder has been selected, click the Select Folder option.
 
-![](/Images/NavigationAddFolderDialog.png)
+![](images/NavigationAddFolderDialog.png)
 
 The folder selected will then appear in the folder tree area.
 
-![](/Images/NavigationTree3.png)
+![](images/NavigationTree3.png)
  
 ####4.2.2.2	Removing a Folder
-![](/Images/NavigationRemoveFolder.png) 
+![](images/NavigationRemoveFolder.png) 
 
 To remove a folder from the Tree View area:
 
@@ -391,41 +391,41 @@ To remove a folder from the Tree View area:
 2. Select the Remove Folder option from the Folder Maintenance area. A prompt will be displayed to confirm the removal of the folder
 3. Select the Yes option, the folder will then be removed
 
-![](/Images/NavigationRemovePrompt.png)
+![](images/NavigationRemovePrompt.png)
  
 ####4.2.2.3	Browsing Selected Folder in Windows Explorer
-![](/Images/NavigationOpenFolder.png)
+![](images/NavigationOpenFolder.png)
 
 To view a selected folder in the file browser, select the Open in File Browser option from the Folder Maintenance area. Once selected the File Explorer will open displaying the selected folder and its contents.
-![](/Images/NavigationOpenFolder2.png)
+![](images/NavigationOpenFolder2.png)
 
 ###4.2.3	Selecting File to View
 ####4.2.3.1	Expanding/Collapsing Folders
 Folders within the Folder Tree are by default are displayed collapsed, and the contents hidden.
 
-![](/Images/NavigationExpand.png)
+![](images/NavigationExpand.png)
  
 To expand, select the  option that corresponds to the desired folder, this will expand the display to include the csv files that reside inside the selected folder.
 
-![](/Images/NavigationTree3.png)
+![](images/NavigationTree3.png)
  
-Selecting the  ![](/Images/NavigationFolderViewToggle.png) option that corresponds to the desired folder will collapse the folder, hiding its contents.
+Selecting the  ![](images/NavigationFolderViewToggle.png) option that corresponds to the desired folder will collapse the folder, hiding its contents.
 
 ####4.2.3.2	Opening a File
 Once the folder that contains the desired file has been expanded, simply double click the filename. The file will then be displayed in a tab within the data area
 
-![](/Images/NavigationOpenFile.png)
+![](images/NavigationOpenFile.png)
 
 On opening a file for the first time, the culture (language) option is required to be set. Select the desired option from the drop down list. By default en-AU is selected which corresponds to English – Australian.
 
-![](/Images/NavigationSelectCulture.png)
+![](images/NavigationSelectCulture.png)
  
 Multiple files can be open at the same time, they are each displayed in their own tab within the data area.
 
-![](/Images/NavigationMultiFile.png)
+![](images/NavigationMultiFile.png)
  
 ###4.2.4	Closing a File
-![](/Images/NavigationCloseFile.png)
+![](images/NavigationCloseFile.png)
 
 To close an open file, select the close option on the corresponding tab  
 
@@ -435,8 +435,8 @@ The data grid, is the area where files are displayed. Each file is displayed in 
 Data grid results can be sorted in ascending or descending order, with the ability to have multilevel sorts.
 Clicking on a column header toggles through the sort options which include:
 
-1. ![](/Images/SortAsc.png) ascending order
-2. ![](/Images/SortDesc.png) descending order
+1. ![](images/SortAsc.png) ascending order
+2. ![](images/SortDesc.png) descending order
 3. no sort
 
 To apply a multilevel sort, hold the control key down whilst selecting the header of the column to apply the sort. There is no limit to the number of sort levels applied to the data grid results.
@@ -444,14 +444,14 @@ To apply a multilevel sort, hold the control key down whilst selecting the heade
 **Data Grid results Without Sorting**
  
 The following example shows the result of applying a single click to the Flavour column.
-![](/Images/SortResultsAsc.png)
+![](images/SortResultsAsc.png)
  
 Below is the result of 2 clicks on the Flavour column header
-![](/Images/SortResultsDesc.png)
+![](images/SortResultsDesc.png)
  
 The next example shows the result of adding an additional sort to the results above, by holding the control key whilst selecting the Resource column header
 
-![](/Images/SortResultsMulti.png)
+![](images/SortResultsMulti.png)
  
 Notice once the second sort is applied the Flavour and Resource column headers have a number corresponding to the sort level.
 
@@ -459,32 +459,32 @@ Notice once the second sort is applied the Flavour and Resource column headers h
 There are two types of filters that can be applied to the data grid, the drop down filters and quick filters. Quick filters are optional and require this option to be enabled in the Settings area.
 
 ####4.3.2.1	Drop Down Filters
- ![](/Images/FiltersDropDown.png) Selecting the drop down filter within a given column header, will display the valid filter results, each with a summary of the number of rows with that value. The filter results can be refined by typing in the search box inside the filter drop down.
+ ![](images/FiltersDropDown.png) Selecting the drop down filter within a given column header, will display the valid filter results, each with a summary of the number of rows with that value. The filter results can be refined by typing in the search box inside the filter drop down.
 
 **Un-Filtered Results**
 
-![](/Images/FiltersDropDownUnFiltered.png)					
+![](images/FiltersDropDownUnFiltered.png)					
 
 **Filtered Result by Search Box Entry**
 
-![](/Images/FiltersDropDownFiltered.png)					
+![](images/FiltersDropDownFiltered.png)					
 
 The Toggle Selection option provides a quick method of selecting/unselecting all results for the given column.
 
-![](/Images/FiltersDropDownToggleOn.png)					
-![](/Images/FiltersDropDownToggleOff.png)					
+![](images/FiltersDropDownToggleOn.png)					
+![](images/FiltersDropDownToggleOff.png)					
  					 
 Alternatively individual items can be selected/unselected by clicking the corresponding check box.
 
-![](/Images/FiltersDropDownFilteredIndividual.png)					
+![](images/FiltersDropDownFilteredIndividual.png)					
  
 ####4.3.2.2	Quick Filters
 When Quick Filters are enabled in the Settings, column headers contain a search box in the lower area of the column header.
 
-![](/Images/FiltersQuick.png)
+![](images/FiltersQuick.png)
 Results in the data grid can be refined by typing in the search box. For example entering ‘uh’ in the Quick Filter for the Resource column has the following result.
 
-![](/Images/FiltersQuickResults.png)
+![](images/FiltersQuickResults.png)
  
 ###4.3.3	Grouping Results
 Data grid results can be summarised into groups, allowing for flexible reviewing of data. There are no limits on the number groups applied to a given data set.
@@ -492,36 +492,36 @@ Data grid results can be summarised into groups, allowing for flexible reviewing
 ####4.3.3.1	Adding a Grouping
 A column can be added to a group, by right clicking the desired column header and selecting the Add to Group option from the list. By default the grouping results will be expanded for each group.
 
-![](/Images/GroupsAdd.png)
+![](images/GroupsAdd.png)
  
 For example, adding the Resource column to a group, results in the following.
-![](/Images/GroupsResultsSingleLevel.png)
+![](images/GroupsResultsSingleLevel.png)
  
 Notice that the Resource has been added to the grouping header area, and the results are now grouped under the summary row for each group.
 
-![](/Images/GroupsResultsSingleLevelDetail.png)
+![](images/GroupsResultsSingleLevelDetail.png)
  
 Adding an additional grouping ‘Flavour’ to the results above result in the following.
-![](/Images/GroupsResultsMultiLevel.png)
+![](images/GroupsResultsMultiLevel.png)
  
 ####4.3.3.2	Expanding/Collapsing Groupings
  By default when a grouping is applied, the results will displayed with the grouping expanded.
 
 #####4.3.3.2.1	Expanding/Collapsing Entire Group
 By selecting the expand/collapse option for a group in the group summary area, will expand/collapse the selected group results.
-![](/Images/GroupsExpandCollapseHeader.png)
+![](images/GroupsExpandCollapseHeader.png)
  
-Selecting the ![](/Images/GroupsCollapse.png) collapse option in the Resource grouping in the header area will result in the following.
+Selecting the ![](images/GroupsCollapse.png) collapse option in the Resource grouping in the header area will result in the following.
 
-![](/Images/GroupsCollapseResults.png)
+![](images/GroupsCollapseResults.png)
  
-Alternatively selecting the ![](/Images/GroupsExpand.png) expand option will expand the groups.
+Alternatively selecting the ![](images/GroupsExpand.png) expand option will expand the groups.
 
- ![](/Images/GroupsExpandResults.png)
+ ![](images/GroupsExpandResults.png)
  
 ####4.3.3.3	Removing a Grouping
-A grouping is removed by selecting the ![](/Images/GroupsClose.png) close option in the grouping header
-![](/Images/GroupsCloseDetail.png) 
+A grouping is removed by selecting the ![](images/GroupsClose.png) close option in the grouping header
+![](images/GroupsCloseDetail.png) 
  
 ###4.3.4	Applying Colour to Columns
 Adding colours to columns, at a glance provides useful information about the data.
@@ -529,16 +529,16 @@ Adding colours to columns, at a glance provides useful information about the dat
 ####4.3.4.1	Adding Colours
 To add colour to a given column, right click on the column header for the required field; select the Add Colors option from the list. There is no limit to the number of columns that have colours applied to them.
 
-![](/Images/ColoursAdd.png)
+![](images/ColoursAdd.png)
  
 ####4.3.4.2	Removing Colours
 Removing colours from columns, is done by right clicking on the column header for the column to remove the colour from; then select the Remove Color option
  
-![](/Images/ColoursRemove.png) 
+![](images/ColoursRemove.png) 
 
 ###4.3.5	Data Grid Settings
  
-![](/Images/DataGridSettingsWindow.png)
+![](images/DataGridSettingsWindow.png)
 
 The Data Grid Settings area is where look and feel of the data displayed in the data area can be configured. Elements that can be customised include:
 
@@ -547,13 +547,13 @@ The Data Grid Settings area is where look and feel of the data displayed in the 
 - Can Be Moved – When checked the header row can be dragged and placed into an alternative column. This allows for custom grouping of fields that relate to each other. For example, dragging the Product column across before the Due Date until the solid black line appears, then dropping would result in the following sequence:
 
 **Prior to drag and drop of the Product column**
-![](/Images/DataGridSettingsPreDragDrop.png)
+![](images/DataGridSettingsPreDragDrop.png)
  
 **Mid drag and drop of the Product column**
-![](/Images/DataGridSettingsMidDragDrop.png)
+![](images/DataGridSettingsMidDragDrop.png)
  
 **Final result of the drag and drop of the Product column**
- ![](/Images/DataGridSettingsPostDragDrop.png)
+ ![](images/DataGridSettingsPostDragDrop.png)
 
 
 - Can Edit – When selected a field can be changed, by double clicking to get focus then make desired changes. 
@@ -561,57 +561,57 @@ The Data Grid Settings area is where look and feel of the data displayed in the 
 
 **Text/Numeric Fields**
 
-![](/Images/DataGridSettingsEditText.png)
+![](images/DataGridSettingsEditText.png)
 
 **Date/Time Fields**
 
-![](/Images/DataGridSettingsEditDateTime.png)
+![](images/DataGridSettingsEditDateTime.png)
  	
  
 - Display Name – Sets/Changes the header display for the field in the data grid
 
 
 **Reference display name settings**
-![](/Images/DataGridSettingsDisplayName.png)
+![](images/DataGridSettingsDisplayName.png)
  
 **Reference header in data grid**
 
-![](/Images/DataGridSettingsDisplayNameInGrid.png)
+![](images/DataGridSettingsDisplayNameInGrid.png)
 
 **Change reference to order# in data grid settings **
-![](/Images/DataGridSettingsDisplayName2.png)
+![](images/DataGridSettingsDisplayName2.png)
  
 **Updated header for reference field**
 
-![](/Images/DataGridSettingsDisplayNameInGridUpdated.png)
+![](images/DataGridSettingsDisplayNameInGridUpdated.png)
 
 
 - Format - Useful when working with date/time fields, where the format can be modified to suit locale or preference. For example, the time component of a field is not relevant, therefore the format of the field could be set to display the date only.
 
 **Due date with no formatting applied**
-![](/Images/DataGridSettingsFormat.png)
+![](images/DataGridSettingsFormat.png)
 
 **Setting the date format to the due date field in the Data Grid Settings window**
-![](/Images/DataGridSettingsFormat2.png)
+![](images/DataGridSettingsFormat2.png)
  
 **Result of applying the formatting to the due date**
-![](/Images/DataGridSettingsFormat3.png)
+![](images/DataGridSettingsFormat3.png)
  
 
 - Is Visible – Hides the field from the data grid display
 
 **Row ID not hidden from data grid display**
 
-![](/Images/DataGridSettingsIsVisible.png)
+![](images/DataGridSettingsIsVisible.png)
  
 
 **Hiding the Row Id in the data grid settings**
-![](/Images/DataGridSettingsIsVisible2.png)
+![](images/DataGridSettingsIsVisible2.png)
  
 
 **Row Id hidden from data grid display**
 
-![](/Images/DataGridSettingsIsVisible3.png)
+![](images/DataGridSettingsIsVisible3.png)
 
 
 - Name – Displays the name for the given field from the source file. This cannot be modified. Useful for reference if the display name has been updated.
@@ -622,11 +622,11 @@ The Data Grid Settings area is where look and feel of the data displayed in the 
 ##5.1	Finding Data Anomalies
 Because of the ability to quickly add colour coding, Flex Grid is great for finding issues with you data. Take a look at the table below and see if you can quickly identify any issues in the data.
 
-![](/Images/WorkingWithData1.png)
+![](images/WorkingWithData1.png)
  
 Using Flex Grid in a few seconds you can format the data to help make data issues stand out.
 
-![](/Images/WorkingWithData2.png) 
+![](images/WorkingWithData2.png) 
  
 Now you can easily see that there are products on the schedule that require UK (Export) pallets but the jobs are not flagged as being export jobs.
 
@@ -634,15 +634,15 @@ Not only is this easy to spot in Flax Grid, it’s also easy to fix because Flex
 
 First add a quick filter to show all the products that require a UK pallet. 
 
-![](/Images/WorkingWithData3.png)
+![](images/WorkingWithData3.png)
  
 
 Then add a quick filter to show which of these jobs aren’t flagged as export jobs.
-![](/Images/WorkingWithData4.png)
+![](images/WorkingWithData4.png)
  
 
 Now simply click on the check boxes for the jobs in error to change the IsForExport flag to True.
-![](/Images/WorkingWithData5.png)
+![](images/WorkingWithData5.png)
  
 #6	Help and Support
 ##6.1	Error Logging
@@ -652,13 +652,13 @@ There are two types of logs available within the Scheduling Assistant, these inc
 2. Crash Reports
 
 ###6.1.1	Event Logs
-Detail the actions within the Flex Grid, along with locations of filter and workspace settings files. This log can be viewed, by selecting the ![](/Images/HelpShowLog.png)  button from within the Flex Grid about dialog, that is opened by selecting the ![](/Images/HelpAbout.png) About icon.
+Detail the actions within the Flex Grid, along with locations of filter and workspace settings files. This log can be viewed, by selecting the ![](images/HelpShowLog.png)  button from within the Flex Grid about dialog, that is opened by selecting the ![](images/HelpAbout.png) About icon.
 
-![](/Images/HelpAboutBox.png)
+![](images/HelpAboutBox.png)
 
 Below is an example of the an event log
 
-![](/Images/HelpEventLog.png)
+![](images/HelpEventLog.png)
  
 
 ###6.1.2	Crash Reports
@@ -667,7 +667,7 @@ Files names are prefixed with Crashreport_ and will contain the current date and
 >C>Users>CurrentUsers*>AppData>Roaming>Wild Gums>Flex Grid folder.
 
 *where CurrentUsers is the login name of the current user.
-![](/Images/HelpLogFolder.png)
+![](images/HelpLogFolder.png)
 
  
 
