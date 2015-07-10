@@ -56,7 +56,7 @@ This program requires a license in order to operate. Your solution provider shou
 - After a few moments the following box will appear.
 
 
-![](images/installOK.png)
+![](images/InstallOK.png)
 
 - Click on the play symbol to continue
 - After a few moment the following license prompt will appear
@@ -91,7 +91,7 @@ The Flex Grid workspace contains three main areas:
 2. Navigation
 3. Data Area
 
-![](images/Flexgrid_Areas.png)
+![](images/FlexGrid_Areas.png)
 
 ##4.1	Toolbar and Menus
 ###4.1.1	Toolbar File Menu
@@ -247,7 +247,7 @@ Customising the behaviour and application options are managed through the settin
 - Show row id Toggle to display the row number when viewing files. this is a handy feature when using sort or filter options
 ![](images/ShowHideToggle.png)
 
-- External editor path Sets the path to the desired application to use when the Open in editor option is selected. By default the application is set to WordPad, to change the default program select the ![](images/rename.png) option and browse to the path required.
+- External editor path Sets the path to the desired application to use when the Open in editor option is selected. By default the application is set to WordPad, to change the default program select the ![](images/Rename.png) option and browse to the path required.
 
 - Enable quick filters Filters results by text entered
 
@@ -350,7 +350,7 @@ This option should reflect the current project file, if the file contains a head
 
 **File without header row**
 
-![](images/HasHEadersFalse.png)
+![](images/HasHeadersFalse.png)
 
 ##4.2	Navigation
 ###4.2.1	The Navigation Menu
@@ -447,7 +447,7 @@ The following example shows the result of applying a single click to the Flavour
 ![](images/SortResultsAsc.png)
  
 Below is the result of 2 clicks on the Flavour column header
-![](images/SortResultsDesc.png)
+![](images/SortResultsAsc.png)
  
 The next example shows the result of adding an additional sort to the results above, by holding the control key whilst selecting the Resource column header
 
