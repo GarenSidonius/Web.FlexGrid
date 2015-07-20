@@ -7,7 +7,10 @@ TOC
 
 - [Introduction](#docs/01_introduction)
 - [Features](#docs/02_features)
-- [Starting](#docs/03_starting)
+- [Getting Started](#docs/03_starting)
 - [Layout](#docs/04_layout)
-- [Files](#docs/05_files)
-- [Support](#docs/06_support)
+- [Navigation](#docs/05_navigation)
+- [Toolbar and Menus](#docs/06_toolbar-menu)
+- [Data Grid](#docs/07_data-grid)
+- [Working with Data Files](#docs/08_usecases)
+- [Logs](#docs/06_support)
